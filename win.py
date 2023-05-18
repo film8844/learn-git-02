@@ -1,1 +1,1 @@
-print('hello win')
+print('hello wins')
